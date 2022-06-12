@@ -2,4 +2,4 @@ package packagea;
 
 public class ClassA {
 }
-// class A
+// class A2
